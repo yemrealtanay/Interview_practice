@@ -9,7 +9,7 @@
 
 //Soruyu anlamak... İlk adımımız soruyu anlamak ve bizden ne istendiğine dair net bir fikire sahip olmaya çalışmak. Sorunun  cevabını içeren
 //kodları yazmadan önce soruyu anlamak çok önemli. Bu yüzden önce pisagor üçlüsü neyi ifade ediyor ona bakmamız lazım. 
-//Bir üçgenin en uzun kenarının karesi, diğer iki kenar uzunluğunun karesine eşitse bu üçgen doğru üçgendir.
+//Bir üçgenin en uzun kenarının karesi, diğer iki kenar uzunluğunun karelerinin toplamına eşitse bu üçgen doğru üçgendir.
 //Bu işleme pisagor üçlüsü denir. Dolayısıyla bize verilen 3 rakamın birer kenarı temsil ettiğini düşünelim. Bunlardan en büyük olan rakam en uzun kenarın
 //uzunluğu olacaktır. Tüm rakamların karesini aldığımızda en küçük iki rakamın toplamı en büyük rakama eşitse bu üç rakamın pisagor üçlüsü 
 //olduğunu söyleyebiliriz. 
